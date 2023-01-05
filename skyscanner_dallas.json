@@ -1,0 +1,817 @@
+[
+    {
+        "index": 68,
+        "name": "Albania",
+        "price": null
+    },
+    {
+        "index": 69,
+        "name": "Algeria",
+        "price": null
+    },
+    {
+        "index": 70,
+        "name": "Angola",
+        "price": null
+    },
+    {
+        "index": 38,
+        "name": "Anguilla",
+        "price": 606
+    },
+    {
+        "index": 71,
+        "name": "Antigua and Barbuda",
+        "price": null
+    },
+    {
+        "index": 23,
+        "name": "Argentina",
+        "price": 459
+    },
+    {
+        "index": 72,
+        "name": "Armenia",
+        "price": null
+    },
+    {
+        "index": 10,
+        "name": "Aruba",
+        "price": 181
+    },
+    {
+        "index": 64,
+        "name": "Australia",
+        "price": 1574
+    },
+    {
+        "index": 32,
+        "name": "Austria",
+        "price": 541
+    },
+    {
+        "index": 73,
+        "name": "Azerbaijan",
+        "price": null
+    },
+    {
+        "index": 9,
+        "name": "Bahamas",
+        "price": 172
+    },
+    {
+        "index": 52,
+        "name": "Bahrain",
+        "price": 872
+    },
+    {
+        "index": 50,
+        "name": "Bangladesh",
+        "price": 850
+    },
+    {
+        "index": 1,
+        "name": "Barbados",
+        "price": null
+    },
+    {
+        "index": 36,
+        "name": "Belgium",
+        "price": 557
+    },
+    {
+        "index": 74,
+        "name": "Belize",
+        "price": null
+    },
+    {
+        "index": 63,
+        "name": "Benin",
+        "price": 1379
+    },
+    {
+        "index": 75,
+        "name": "Bermuda",
+        "price": null
+    },
+    {
+        "index": 76,
+        "name": "Bolivia",
+        "price": null
+    },
+    {
+        "index": 41,
+        "name": "Bosnia and Herzegovina",
+        "price": 649
+    },
+    {
+        "index": 16,
+        "name": "Brazil",
+        "price": 387
+    },
+    {
+        "index": 77,
+        "name": "British Virgin Islands",
+        "price": null
+    },
+    {
+        "index": 34,
+        "name": "Bulgaria",
+        "price": 551
+    },
+    {
+        "index": 78,
+        "name": "Burkina Faso",
+        "price": null
+    },
+    {
+        "index": 79,
+        "name": "Cambodia",
+        "price": null
+    },
+    {
+        "index": 80,
+        "name": "Cameroon",
+        "price": null
+    },
+    {
+        "index": 3,
+        "name": "Canada",
+        "price": 92
+    },
+    {
+        "index": 81,
+        "name": "Caribbean Netherlands",
+        "price": null
+    },
+    {
+        "index": 82,
+        "name": "Cayman Islands",
+        "price": null
+    },
+    {
+        "index": 83,
+        "name": "Chad",
+        "price": null
+    },
+    {
+        "index": 84,
+        "name": "Chile",
+        "price": null
+    },
+    {
+        "index": 66,
+        "name": "China",
+        "price": 1799
+    },
+    {
+        "index": 12,
+        "name": "Colombia",
+        "price": 188
+    },
+    {
+        "index": 85,
+        "name": "Cook Islands",
+        "price": null
+    },
+    {
+        "index": 13,
+        "name": "Costa Rica",
+        "price": 198
+    },
+    {
+        "index": 86,
+        "name": "Croatia",
+        "price": null
+    },
+    {
+        "index": 87,
+        "name": "Cuba",
+        "price": null
+    },
+    {
+        "index": 88,
+        "name": "Curacao",
+        "price": null
+    },
+    {
+        "index": 89,
+        "name": "Cyprus",
+        "price": null
+    },
+    {
+        "index": 19,
+        "name": "Czechia",
+        "price": 437
+    },
+    {
+        "index": 93,
+        "name": "DR Congo",
+        "price": null
+    },
+    {
+        "index": 90,
+        "name": "Denmark",
+        "price": null
+    },
+    {
+        "index": 91,
+        "name": "Djibouti",
+        "price": null
+    },
+    {
+        "index": 92,
+        "name": "Dominica",
+        "price": null
+    },
+    {
+        "index": 8,
+        "name": "Dominican Republic",
+        "price": 161
+    },
+    {
+        "index": 94,
+        "name": "Ecuador",
+        "price": null
+    },
+    {
+        "index": 37,
+        "name": "Egypt",
+        "price": 586
+    },
+    {
+        "index": 6,
+        "name": "El Salvador",
+        "price": 143
+    },
+    {
+        "index": 95,
+        "name": "Equatorial Guinea",
+        "price": null
+    },
+    {
+        "index": 96,
+        "name": "Eritrea",
+        "price": null
+    },
+    {
+        "index": 61,
+        "name": "Estonia",
+        "price": 1149
+    },
+    {
+        "index": 97,
+        "name": "Ethiopia",
+        "price": null
+    },
+    {
+        "index": 98,
+        "name": "Fiji",
+        "price": null
+    },
+    {
+        "index": 26,
+        "name": "Finland",
+        "price": 499
+    },
+    {
+        "index": 18,
+        "name": "France",
+        "price": 432
+    },
+    {
+        "index": 99,
+        "name": "French Polynesia",
+        "price": null
+    },
+    {
+        "index": 100,
+        "name": "Gabon",
+        "price": null
+    },
+    {
+        "index": 101,
+        "name": "Gambia",
+        "price": null
+    },
+    {
+        "index": 102,
+        "name": "Georgia",
+        "price": null
+    },
+    {
+        "index": 22,
+        "name": "Germany",
+        "price": 456
+    },
+    {
+        "index": 49,
+        "name": "Ghana",
+        "price": 799
+    },
+    {
+        "index": 103,
+        "name": "Gibraltar",
+        "price": null
+    },
+    {
+        "index": 104,
+        "name": "Greece",
+        "price": null
+    },
+    {
+        "index": 31,
+        "name": "Grenada",
+        "price": 539
+    },
+    {
+        "index": 105,
+        "name": "Guadeloupe",
+        "price": null
+    },
+    {
+        "index": 14,
+        "name": "Guatemala",
+        "price": 254
+    },
+    {
+        "index": 106,
+        "name": "Guinea",
+        "price": null
+    },
+    {
+        "index": 107,
+        "name": "Guyana",
+        "price": null
+    },
+    {
+        "index": 108,
+        "name": "Haiti",
+        "price": null
+    },
+    {
+        "index": 21,
+        "name": "Honduras",
+        "price": 447
+    },
+    {
+        "index": 109,
+        "name": "Hong Kong",
+        "price": null
+    },
+    {
+        "index": 110,
+        "name": "Hungary",
+        "price": null
+    },
+    {
+        "index": 15,
+        "name": "Iceland",
+        "price": 374
+    },
+    {
+        "index": 39,
+        "name": "India",
+        "price": 629
+    },
+    {
+        "index": 111,
+        "name": "Indonesia",
+        "price": null
+    },
+    {
+        "index": 112,
+        "name": "Iran",
+        "price": null
+    },
+    {
+        "index": 113,
+        "name": "Iraq",
+        "price": null
+    },
+    {
+        "index": 114,
+        "name": "Ireland",
+        "price": null
+    },
+    {
+        "index": 115,
+        "name": "Israel",
+        "price": null
+    },
+    {
+        "index": 28,
+        "name": "Italy",
+        "price": 531
+    },
+    {
+        "index": 116,
+        "name": "Ivory Coast",
+        "price": null
+    },
+    {
+        "index": 4,
+        "name": "Jamaica",
+        "price": 119
+    },
+    {
+        "index": 59,
+        "name": "Japan",
+        "price": 1004
+    },
+    {
+        "index": 117,
+        "name": "Jordan",
+        "price": null
+    },
+    {
+        "index": 118,
+        "name": "Kazakhstan",
+        "price": null
+    },
+    {
+        "index": 67,
+        "name": "Kenya",
+        "price": 1967
+    },
+    {
+        "index": 119,
+        "name": "Kosovo",
+        "price": null
+    },
+    {
+        "index": 55,
+        "name": "Kuwait",
+        "price": 964
+    },
+    {
+        "index": 120,
+        "name": "Kyrgyzstan",
+        "price": null
+    },
+    {
+        "index": 121,
+        "name": "Latvia",
+        "price": null
+    },
+    {
+        "index": 122,
+        "name": "Lebanon",
+        "price": null
+    },
+    {
+        "index": 123,
+        "name": "Luxembourg",
+        "price": null
+    },
+    {
+        "index": 58,
+        "name": "Malaysia",
+        "price": 993
+    },
+    {
+        "index": 124,
+        "name": "Maldives",
+        "price": null
+    },
+    {
+        "index": 125,
+        "name": "Mali",
+        "price": null
+    },
+    {
+        "index": 29,
+        "name": "Malta",
+        "price": 533
+    },
+    {
+        "index": 126,
+        "name": "Mauritania",
+        "price": null
+    },
+    {
+        "index": 127,
+        "name": "Mauritius",
+        "price": null
+    },
+    {
+        "index": 5,
+        "name": "Mexico",
+        "price": 126
+    },
+    {
+        "index": 128,
+        "name": "Mongolia",
+        "price": null
+    },
+    {
+        "index": 129,
+        "name": "Montenegro",
+        "price": null
+    },
+    {
+        "index": 30,
+        "name": "Morocco",
+        "price": 534
+    },
+    {
+        "index": 130,
+        "name": "Namibia",
+        "price": null
+    },
+    {
+        "index": 47,
+        "name": "Nepal",
+        "price": 720
+    },
+    {
+        "index": 33,
+        "name": "Netherlands",
+        "price": 544
+    },
+    {
+        "index": 131,
+        "name": "New Caledonia",
+        "price": null
+    },
+    {
+        "index": 65,
+        "name": "New Zealand",
+        "price": 1779
+    },
+    {
+        "index": 132,
+        "name": "Nicaragua",
+        "price": null
+    },
+    {
+        "index": 133,
+        "name": "Niger",
+        "price": null
+    },
+    {
+        "index": 42,
+        "name": "Nigeria",
+        "price": 658
+    },
+    {
+        "index": 134,
+        "name": "North Macedonia",
+        "price": null
+    },
+    {
+        "index": 135,
+        "name": "Norway",
+        "price": null
+    },
+    {
+        "index": 136,
+        "name": "Oman",
+        "price": null
+    },
+    {
+        "index": 40,
+        "name": "Pakistan",
+        "price": 648
+    },
+    {
+        "index": 137,
+        "name": "Panama",
+        "price": null
+    },
+    {
+        "index": 138,
+        "name": "Paraguay",
+        "price": null
+    },
+    {
+        "index": 11,
+        "name": "Peru",
+        "price": 186
+    },
+    {
+        "index": 57,
+        "name": "Philippines",
+        "price": 985
+    },
+    {
+        "index": 139,
+        "name": "Poland",
+        "price": null
+    },
+    {
+        "index": 20,
+        "name": "Portugal",
+        "price": 446
+    },
+    {
+        "index": 7,
+        "name": "Puerto Rico",
+        "price": 157
+    },
+    {
+        "index": 48,
+        "name": "Qatar",
+        "price": 760
+    },
+    {
+        "index": 140,
+        "name": "Republic of the Congo",
+        "price": null
+    },
+    {
+        "index": 141,
+        "name": "Reunion",
+        "price": null
+    },
+    {
+        "index": 142,
+        "name": "Romania",
+        "price": null
+    },
+    {
+        "index": 143,
+        "name": "Rwanda",
+        "price": null
+    },
+    {
+        "index": 144,
+        "name": "Saint Kitts and Nevis",
+        "price": null
+    },
+    {
+        "index": 145,
+        "name": "Saint Lucia",
+        "price": null
+    },
+    {
+        "index": 44,
+        "name": "Saudi Arabia",
+        "price": 667
+    },
+    {
+        "index": 146,
+        "name": "Senegal",
+        "price": null
+    },
+    {
+        "index": 147,
+        "name": "Serbia",
+        "price": null
+    },
+    {
+        "index": 148,
+        "name": "Seychelles",
+        "price": null
+    },
+    {
+        "index": 53,
+        "name": "Singapore",
+        "price": 874
+    },
+    {
+        "index": 149,
+        "name": "Sint Maarten",
+        "price": null
+    },
+    {
+        "index": 150,
+        "name": "Slovenia",
+        "price": null
+    },
+    {
+        "index": 151,
+        "name": "Somalia",
+        "price": null
+    },
+    {
+        "index": 62,
+        "name": "South Africa",
+        "price": 1316
+    },
+    {
+        "index": 56,
+        "name": "South Korea",
+        "price": 965
+    },
+    {
+        "index": 25,
+        "name": "Spain",
+        "price": 482
+    },
+    {
+        "index": 152,
+        "name": "Sri Lanka",
+        "price": null
+    },
+    {
+        "index": 46,
+        "name": "Sudan",
+        "price": 707
+    },
+    {
+        "index": 24,
+        "name": "Sweden",
+        "price": 472
+    },
+    {
+        "index": 35,
+        "name": "Switzerland",
+        "price": 555
+    },
+    {
+        "index": 51,
+        "name": "Taiwan",
+        "price": 866
+    },
+    {
+        "index": 45,
+        "name": "Tanzania",
+        "price": 668
+    },
+    {
+        "index": 54,
+        "name": "Thailand",
+        "price": 881
+    },
+    {
+        "index": 153,
+        "name": "Togo",
+        "price": null
+    },
+    {
+        "index": 154,
+        "name": "Trinidad and Tobago",
+        "price": null
+    },
+    {
+        "index": 155,
+        "name": "Tunisia",
+        "price": null
+    },
+    {
+        "index": 156,
+        "name": "Turkmenistan",
+        "price": null
+    },
+    {
+        "index": 157,
+        "name": "Turks and Caicos Islands",
+        "price": null
+    },
+    {
+        "index": 43,
+        "name": "Türkiye (Turkey)",
+        "price": 659
+    },
+    {
+        "index": 160,
+        "name": "US Virgin Islands",
+        "price": null
+    },
+    {
+        "index": 158,
+        "name": "Uganda",
+        "price": null
+    },
+    {
+        "index": 27,
+        "name": "United Arab Emirates",
+        "price": 514
+    },
+    {
+        "index": 17,
+        "name": "United Kingdom",
+        "price": 393
+    },
+    {
+        "index": 2,
+        "name": "United States",
+        "price": 56
+    },
+    {
+        "index": 159,
+        "name": "Uruguay",
+        "price": null
+    },
+    {
+        "index": 161,
+        "name": "Uzbekistan",
+        "price": null
+    },
+    {
+        "index": 60,
+        "name": "Vietnam",
+        "price": 1138
+    },
+    {
+        "index": 162,
+        "name": "Zambia",
+        "price": null
+    },
+    {
+        "index": 163,
+        "name": "Zimbabwe",
+        "price": null
+    }
+]
