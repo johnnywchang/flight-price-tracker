@@ -1,5 +1,8 @@
 # app.py
 from flask import Flask, request, jsonify
+from werkzeug.utils import secure_filename
+import json
+import os
 
 app = Flask(__name__)
 
@@ -32,17 +35,31 @@ def add_countries():
 #def get_files():
 #    return jsonify(countries)
 
+#@app.route("/data", methods=['GET', 'POST'])
+#def add_files():
+#    with open("all_countries.json", 'w') as file:
+#        json.dump(countries, file)
+#    return "all_countries.json"
+
+@app.route("/data")
+def create_files():
+    with open( "allcountries.json" , "w") as write:
+        json.dump( countries, write )
+    return os.listdir()
+
 @app.post("/data")
-def add_files(filename):
-    dfile = open(filename, "rb")
-    url = "http://127.0.0.1:5000/data"
-    requests.post(url, files = {dfile})
-#    if request.is_json:
-#        country_list = request.get_json()
-#        for c in country_list:
-#            if c['price'] is not None:
-#                c['index']=_find_next_id()
-#                countries.append(c)
-#        return countries, 201
-#    return {"error": "Request must be JSON"}, 415
-    
+def update_files():
+    with open("allcountries.json") as f:
+        datafile = json.load(f)
+        if request.is_json:
+            country_list = request.get_json()
+            newindex=max(i["index"] for i in datafile)+1
+            for c in country_list:
+                if c['price'] is not None:
+                    c['index']=newindex
+                    newindex += 1
+                    datafile.append(c)
+    with open("allcountries.json", "w") as f:
+        json.dump(datafile, f, indent=4)
+    f.close()
+    return f
